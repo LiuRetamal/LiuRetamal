@@ -1,4 +1,4 @@
-![IMG_20220914_121305_060](https://user-images.githubusercontent.com/113594028/192477117-168e9803-54d3-460a-9a03-5a0475be49da.jpg)
+
 
   👋 Holi! Soy Liu Retamal
 
