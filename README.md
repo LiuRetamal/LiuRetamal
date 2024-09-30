@@ -1,11 +1,11 @@
 
 
-  👋 Holi! Soy Liu Retamal
+  👋 Hola! Soy Liu Retamal
 
   Desarrolladora de Aplicaciones Web e Ilustradora
 
-  - Programo en HTML / Css / Java / MySQL
-  - Estoy estudiando Python / Javascript / etc.
+  - Programo en HTML / Css / Java / MySQL / Python / Javascript / Cobol
+  - Estoy estudiando Typecript / React / Angular / etc.
 
   Linkedin: https://www.linkedin.com/in/liuretamal/
   
